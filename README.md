@@ -1,5 +1,5 @@
 # 💫 About Me:
--Hi, I’m <em>Mehrab/مِحرَاب<em> <br>- 👀 I’m interested in writing code and learning new features 🪄<br>- 🌱 I’m currently learning React<br>- 📫Feel free to contact me here anytime [mehrabakareem167@gmail.com]<br>- 😄 Pronouns: She/her
+ -Hi, I’m <em>Mehrab/مِحرَاب<em> <br>- 👀 I’m interested in writing code and learning new features 🪄<br>- 🌱 I’m currently learning React<br>- 📫Feel free to contact me here anytime [mehrabakareem167@gmail.com]<br>- 😄 Pronouns: She/her
 
 
 ## 🌐 Socials:
